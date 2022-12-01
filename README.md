@@ -8,4 +8,6 @@ I’ve also taken up courses like Robot Learning and AI to sharpen my skills in 
 ## 💡 Projects
 While my undergrad education helped me to hone my design and manufacturing skills - with several research-heavy projects in my junior and senior years - my Master’s education at Columbia University has proven to be invaluable. I’ve had the fortune to work on some truly ground-breaking and inspiring projects while meeting many influential and creative individuals along the way.
 
-<img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" alt="https://www.kartikeyabector.com/?pgid=kw1mdajc-f4e9c518-1e75-4c04-a415-390d8bafe30b">
+<a href="https://www.kartikeyabector.com/?pgid=kw1mdajc-f4e9c518-1e75-4c04-a415-390d8bafe30b">
+<img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg">
+</a> 
