@@ -16,5 +16,14 @@ While my undergrad education helped me to hone my design and manufacturing skill
 </a> 
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, MATLAB, Micropython, Simulink, C++, C#, C, Kotlin
-- **Libraries/Tools:**: Pandas, OpenCV, VPython, I2C, UDP, Git, SSH, AWS, Flask, REST, MongoDB, Android Studio, Unity, Linux
+- **Languages:**
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,matlab,cpp,cs,c,kotlin" />
+  </a>
+- **Libraries/Tools:**
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,flask,mongodb,androidstudio,unity,linux" />
+  </a>
+- **Mechanical:** SOLIDWORKS, Fusion 360, GD&T, 3D Printing, Laser Cutting
