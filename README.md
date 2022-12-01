@@ -3,7 +3,7 @@
 # 👋 Hey, I'm [Kartikeya Bector](https://www.kartikeyabector.com/)
 I'm currently pursuing my Master of Science in Mechanical Engineering (Concentration - Robotics and Control) from Columbia University.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kartikeya%20Bector-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeya-b/)](https://www.linkedin.com/in/kartikeya-b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kartikeya%20Bector-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeya-b/)](https://www.linkedin.com/in/kartikeya-b/)[![Gmail Badge](https://img.shields.io/badge/-kb3238@columbia.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kb3238@columbia.edu)](mailto:kb3238@columbia.edu)
 
 ## 📖 About
 I’m a Graduate Research Assistant at the Robotics and Rehabilitation (RoAR) Lab and will be working on robotic assistive technologies to help stroke patients and children with cerebral palsy.
