@@ -2,6 +2,9 @@
 
 # 👋 Hey, I'm [Kartikeya Bector](https://www.kartikeyabector.com/)
 I'm currently pursuing my Master of Science in Mechanical Engineering (Concentration - Robotics and Control) from Columbia University.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kartikeya%20Bector-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikeya-b/)](https://www.linkedin.com/in/kartikeya-b/)
+
 ## 📖 About
 I’m a Graduate Research Assistant at the Robotics and Rehabilitation (RoAR) Lab and will be working on robotic assistive technologies to help stroke patients and children with cerebral palsy.
 I’ve also taken up courses like Robot Learning and AI to sharpen my skills in the field of Reinforcement learning and autonomous systems. The Human-Centered Design and Innovation course is focused on devising product designs with a more customer-centric approach, and I'm really excited for what lies ahead!
