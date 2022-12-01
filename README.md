@@ -14,3 +14,7 @@ While my undergrad education helped me to hone my design and manufacturing skill
 <a href="https://www.kartikeyabector.com/?pgid=kw1mdajc-f4e9c518-1e75-4c04-a415-390d8bafe30b">
 <img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg">
 </a> 
+
+## 🛠️ Technical Skills
+- **Languages**: Python, MATLAB, Micropython, Simulink, C++, C#, C, Kotlin
+- **Libraries/Tools:**: Pandas, OpenCV, VPython, I2C, UDP, Git, SSH, AWS, Flask, REST, MongoDB, Android Studio, Unity, Linux
